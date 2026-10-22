@@ -11,7 +11,8 @@
 ![No dependencies](https://img.shields.io/badge/dependencies-none-b7a8e0?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-6b9ac4?style=flat-square)
 
-<img src="./assets/preview.svg" alt="Pocket Arcade preview" width="640">
+<img width="644" height="402" alt="Game interface dark theme" src="https://github.com/user-attachments/assets/871ea2e9-cd11-48a3-b910-342f1b31c57c" />
+
 
 </div>
 
@@ -48,6 +49,10 @@ Every game opens with a start screen and a big **▶ Play** button. Your best sc
 - Keyboard shortcuts: `1` to `6` open a game from the menu, `Esc` goes back
 - Respects the "reduce motion" setting on your device
 - Touch, mouse, and keyboard friendly, with sharp rendering on high-DPI screens
+
+
+## Themes
+-Dark Theme     -Light Theme
 
 ## Run it
 
@@ -98,6 +103,7 @@ Pocket-Arcade/
 ## Ideas for later
 
 - Pause button and a "difficulty" setting for each game
+- different sounds for each game
 - More games, such as 2048 or a sliding puzzle
 - A shared daily challenge
 - Installable as a PWA so it works offline from the home screen
